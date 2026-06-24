@@ -1,4 +1,6 @@
-"# git_study2" 
-"# git_test" 
-"# test" 
-"# test" 
+"# git\_test"
+"# test"
+"# test"
+
+"# 첫번째 수정 내용"
+
